@@ -1,0 +1,13 @@
+# Neovim transient state
+nvim/.repro/
+*.log
+
+# Secrets and environment keys
+*secret*
+*token*
+*.env
+*api_key*
+*password*
+
+# Spotify credentials
+spotifyd/spotifyd.conf.credential

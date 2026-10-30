@@ -1,0 +1,14 @@
+[user]
+	username = Murilo Barros
+	email = murilobarros304@gmail.com
+	name = Murilo de Lima Barros
+[core]
+	editor = nvim
+[merge]
+	tool = nvimdiff
+[mergetool]
+	prompt = false
+[diff]
+	tool = nvimdiff
+[difftool]
+	prompt = false
